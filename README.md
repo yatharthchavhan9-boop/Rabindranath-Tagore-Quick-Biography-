@@ -1,5 +1,4 @@
-# Rabindranath-Tagore-Quick-Biography-
-This website is about Rabindranath Tagore 
+
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
